@@ -1,0 +1,110 @@
+\def\Ignore#1{}\def\notesupp#1{}\def\Ignore#1{}\def\notesupp#1{}
+% \bib, bibdiv, biblist are defined by the amsrefs package.
+\begin{bibdiv}
+\begin{biblist}
+
+\bib{Dia88a}{incollection}{
+      author={Diaconis, P.},
+       title={{B}ayesian numerical analysis},
+        date={1988},
+   booktitle={Statistical decision theory and related topics iv, papers from
+  the 4th purdue symp., west lafayette/indiana 1986},
+      editor={Gupta, S.~S.},
+      editor={Berger, J.~O.},
+      volume={1},
+   publisher={Springer-Verlag, New York},
+       pages={163\ndash 175},
+}
+
+\bib{DicPil10a}{book}{
+      author={Dick, J.},
+      author={Pillichshammer, F.},
+       title={Digital nets and sequences: Discrepancy theory and quasi-{M}onte
+  {C}arlo integration},
+   publisher={Cambridge University Press},
+     address={Cambridge},
+        date={2010},
+}
+
+\bib{Gen93}{article}{
+      author={Genz, A.},
+       title={Comparison of methods for the computation of multivariate normal
+  probabilities},
+        date={1993},
+     journal={Computing Science and Statistics},
+      volume={25},
+       pages={400\ndash 405},
+}
+
+\bib{Gla03}{book}{
+      author={Glasserman, P.},
+       title={{M}onte {C}arlo methods in financial engineering},
+      series={Applications of Mathematics},
+   publisher={Springer-Verlag},
+     address={New York},
+        date={2004},
+      volume={53},
+}
+
+\bib{HicNie03a}{article}{
+      author={Hickernell, F.~J.},
+      author={Niederreiter, H.},
+       title={The existence of good extensible rank-1 lattices},
+        date={2003},
+     journal={J. Complexity},
+      volume={19},
+       pages={286\ndash 300},
+}
+
+\bib{Kei96}{article}{
+      author={Keister, B.~D.},
+       title={Multidimensional quadrature algorithms},
+        date={1996},
+     journal={Computers in Physics},
+      volume={10},
+       pages={119\ndash 122},
+}
+
+\bib{OHa91a}{article}{
+      author={{O'H}agan, A.},
+       title={{B}ayes-{H}ermite quadrature},
+        date={1991},
+     journal={J. Statist.\ Plann.\ Inference},
+      volume={29},
+       pages={245\ndash 260},
+}
+
+\bib{OlvEtal10a}{misc}{
+      author={Olver, F. W.~J.},
+      author={Lozier, D.~W.},
+      author={Boisvert, R.~F.},
+      author={Clark, C.~W.},
+      author={Dalhuis, A. B.~O.},
+       title={Digital library of mathematical functions},
+        date={2013},
+         url={http://dlmf.nist.gov/},
+}
+
+\bib{RasGha03a}{incollection}{
+      author={Rasmussen, C.~E.},
+       title={Bayesian {M}onte {C}arlo},
+        date={2003},
+   booktitle={Advances in {N}eural {I}nformation {P}rocessing {S}ystems},
+      editor={Thrun, S.},
+      volume={15},
+   publisher={MIT Press},
+       pages={489\ndash 496},
+}
+
+\bib{Rit00a}{book}{
+      author={Ritter, K.},
+       title={Average-case analysis of numerical problems},
+      series={Lecture Notes in Mathematics},
+   publisher={Springer-Verlag},
+     address={Berlin},
+        date={2000},
+      volume={1733},
+}
+
+\end{biblist}
+\end{bibdiv}
