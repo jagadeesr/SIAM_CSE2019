@@ -40,17 +40,12 @@
 \makeatother
 
 
-\title[]{Fast automatic Bayesian Cubature \\
-	with Lattice sampling
-\\[1.0ex] }
+\title[]{Fast automatic Bayesian Cubature \\ with Lattice sampling \\[1.0ex] }
 \author[]{Jagadeeswaran R.}
-\institute{Department of Applied Mathematics,  Illinois Institute of Technology, Chicago IL
-\\
-\href{mailto:jrathin1@iit.edu}{\url{jrathin1@iit.edu}} }
-\thanksnote{
-Thanks to my adviser Prof. Fred J. Hickernell\\[1.5ex]
-Thanks for attending my presentation }
-\date[]{ \textbullet\ Feb 27, 2019 \textbullet\ }
+\institute{Department of Applied Mathematics,  Illinois Institute of Technology \\
+	\href{mailto:jrathin1@iit.edu}{\url{jrathin1@iit.edu}} }
+\thanksnote{ Thanks to my employer Wi-Tronix for the trip sponsorship}
+\date[]{SIAM CSE 2019, Spokane \textbullet\ Feb 27, 2019}
 
 %% where the figures are stored
 \graphicspath{{figures/}}
@@ -205,7 +200,7 @@ The goal of this work is to
 \begin{itemize}
 \item Need to estimate the mean and Covariance kernel
 \end{itemize}
-\item MLE is expensive in general
+\item Parameter estimation (MLE, Cross validation) is expensive in general
 \begin{itemize}
 \item Use points and kernel for which MLE is cheap
 \end{itemize}
@@ -495,7 +490,7 @@ Then the posterior density for the integral $\mu$ given the data is :
 
 
 \begin{frame}
-\frametitle{Parameter estimation - Leave-one-out Cross validation}
+\frametitle{Parameter estimation - Leave-one-out cross validation}
 \vspace*{-6ex}
 Let $\widetilde{y}_i = \Ex[f(\vx_i ) | \vf_{-i} = \vy_{-i}]$.
 The cross-validation criterion, which is to be minimized, is sum of squares of the difference between these conditional expectations and the observed values: :
@@ -1880,6 +1875,7 @@ Finally, the function approximation is
 
 \begin{center}
 \Huge Thank you!
+\item Thank you GAIL friends
 \end{center}
 
 \end{frame}

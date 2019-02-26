@@ -1,0 +1,23 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Automatic cubature algorithm}{7}{0}{1}
+\beamer@sectionintoc {2}{Bayesian cubature}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Posterior Error}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{MLE}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Example with Matern kernel}{19}{0}{2}
+\beamer@sectionintoc {3}{Faster}{20}{0}{3}
+\beamer@subsectionintoc {3}{1}{Fast transform kernel}{20}{0}{3}
+\beamer@subsectionintoc {3}{2}{Shape param ${\boldsymbol {\theta }}_{\textup {MLE}}$}{22}{0}{3}
+\beamer@subsectionintoc {3}{3}{Error Bound}{23}{0}{3}
+\beamer@sectionintoc {4}{Computational}{24}{0}{4}
+\beamer@subsectionintoc {4}{1}{Special covariance kernel }{24}{0}{4}
+\beamer@subsectionintoc {4}{2}{Rank-1 Lattice points}{27}{0}{4}
+\beamer@subsectionintoc {4}{3}{Iterative DFT}{30}{0}{4}
+\beamer@subsectionintoc {4}{4}{Cancellation error in ${\text {err}}$}{32}{0}{4}
+\beamer@subsectionintoc {4}{5}{Periodization transforms}{35}{0}{4}
+\beamer@sectionintoc {5}{Experiments}{36}{0}{5}
+\beamer@subsectionintoc {5}{1}{Automatic cubature}{36}{0}{5}
+\beamer@subsectionintoc {5}{2}{MVN}{36}{0}{5}
+\beamer@subsectionintoc {5}{3}{Keister integral}{37}{0}{5}
+\beamer@subsectionintoc {5}{4}{Option pricing}{38}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{39}{0}{6}
+\beamer@sectionintoc {7}{Future work}{40}{0}{7}
